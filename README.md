@@ -1,14 +1,13 @@
 # encryption-app
 A simple encryption app built using Flask (Python) and React, enabling users to securely encrypt and decrypt messages using symmetric encryption with Fernet. The app provides a user-friendly interface for generating encryption keys, encrypting messages, and decrypting them securely. Ideal for learning and practicing basic encryption concepts.
 
-# **Prerequisites**
+## Prerequisites
 - Python (3.6+)
 - Flask - For backend API
 - React - For frontend user interface
 - Base64 - Required for encoding encrypted messages
 
 ## Features
-
 - Generate secure encryption keys
 - Encrypt messages using Fernet symmetric encryption
 - Decrypt messages with the correct key
